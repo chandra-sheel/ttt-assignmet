@@ -1,5 +1,7 @@
 ## Terribly Tiny Tales Assignment - Chandrasheel Prasad
 
+#### Live Link for my assignment : https://chandra-assignment.netlify.app/
+
 This React application fetches the contents of a text file from `https://www.terriblytinytales.com/test.txt`, calculates the frequency of occurrence of each word in the file, and generates a histogram of the 20 most occurring words. The application also provides the functionality to export the histogram data as a CSV file.
 
 ### Components
@@ -29,4 +31,13 @@ To use the application:
 5. Click the "Submit" button to fetch the text file and generate the histogram.
 6. Once the histogram is generated, you can click the "Export CSV" button to download the histogram data as a CSV file.
 7. If the text file is available, you can also click the "Export Text File" button to download the imported text file.
+
+![image](https://github.com/chandra-sheel/ttt-assignmet/assets/101087013/d4edb1b3-ea8c-4ee0-b788-ed7a5fc8787a)
+
+![image](https://github.com/chandra-sheel/ttt-assignmet/assets/101087013/627cf1fe-d84e-4e02-a3f0-efeba1fb7fea)
+
+![image](https://github.com/chandra-sheel/ttt-assignmet/assets/101087013/1e7090af-49fc-4a0d-ad85-6c20ba61a098)
+
+![image](https://github.com/chandra-sheel/ttt-assignmet/assets/101087013/80d573d7-163f-42b3-8531-674f0e6afd3b)
+
 
